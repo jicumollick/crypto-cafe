@@ -21,7 +21,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href="https://github.com/shakilahmedatik"
+            href="https://github.com/jicumollick"
             className="text-gray-400 hover:text-gray-800 transition-colors duration-200"
           >
             <svg
@@ -36,7 +36,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href="https://github.com/shakilahmedatik"
+            href="https://github.com/jicumollick"
             className="text-gray-400 hover:text-gray-800 transition-colors duration-200"
           >
             <svg
@@ -51,7 +51,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href="https://github.com/shakilahmedatik"
+            href="https://github.com/jicumollick"
             className="text-gray-400 hover:text-gray-800 transition-colors duration-200"
           >
             <svg
@@ -66,7 +66,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href="https://github.com/shakilahmedatik"
+            href="https://github.com/jicumollick"
             className="text-gray-400 hover:text-gray-800 transition-colors duration-200"
           >
             <svg
